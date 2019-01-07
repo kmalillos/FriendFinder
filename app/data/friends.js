@@ -1,5 +1,3 @@
-// Link Example: https://kmalillos.github.io/assets/images/about-1.jpg
-
 // DATA
 // =============================================================================
 var friends = [
